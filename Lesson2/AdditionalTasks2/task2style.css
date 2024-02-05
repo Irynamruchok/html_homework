@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+}
+.mainContainer{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blockBox{
+    width: 60%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.firstLine, .secondLine {
+    height: 48%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.leftTop, .rightTop, .leftBottom, .rightBottom{
+    width: 48%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5%;
+}
+.leftTop{
+    background-color: #699BF7;
+}
+.rightTop{
+    background-color: #C7B9FF;
+}
+.leftBottom{
+    background-color: #FFC700;
+}
+.rightBottom{
+
+    background-color: #FF8577;
+}
+.textContainer{
+    width: 80%;
+    height: 20%;
+    display: flex;
+    padding: 40px;
+    justify-content: start;
+    flex-direction: column;
+}
+.buttonContainer{
+    width: 80%;
+    height: 50%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+button{
+    width: auto;
+    height: 40px;
+    padding: 12px;
+    font-size: 16px;
+    text-decoration: underline;
+    color: whitesmoke;
+    background-color: black;
+    border: 0;
+    border-radius: 7px;
+    font-weight: bold;
+}
+
+.h1{
+    font-size: 30px;
+    padding: 0;
+}

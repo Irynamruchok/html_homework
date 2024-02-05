@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0d3dcd9-fd44-4ffb-a522-66408adf8efa" name="Changes" comment="lesson 1">
+    <list default="true" id="a0d3dcd9-fd44-4ffb-a522-66408adf8efa" name="Changes" comment="lesson 2">
+      <change afterPath="$PROJECT_DIR$/Lesson2/AdditionalTasks2/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/AdditionalTasks2/task1style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/AdditionalTasks2/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/AdditionalTasks2/task2style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/AdditionalTasks2/task3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/AdditionalTasks2/task3style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,23 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson2" />
       <recent name="$PROJECT_DIR$/Lesson2/AdditionalTasks" />
       <recent name="$PROJECT_DIR$/Lesson2/HomeworkLesson2" />
     </key>
@@ -59,7 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1706621860552</updated>
       <workItem from="1706621862039" duration="4071000" />
-      <workItem from="1706785017472" duration="9335000" />
+      <workItem from="1706785017472" duration="10029000" />
+      <workItem from="1706966707548" duration="2095000" />
+      <workItem from="1707144227744" duration="7431000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 1">
       <option name="closed" value="true" />
@@ -69,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706632268578</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson 2">
+      <option name="closed" value="true" />
+      <created>1706795362395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706795362395</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 1" />
+    <MESSAGE value="lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 2" />
   </component>
 </project>

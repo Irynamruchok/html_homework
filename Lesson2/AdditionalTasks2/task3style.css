@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.mainContainer{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.textContainer{
+    width: 60%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+.buttons{
+    width: 60%;
+    height: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.leftButton, .rightButton{
+    width: 47%;
+    height: 40%;
+    border-radius: 10px;
+    border: 4px solid darkslategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    width: 55%;
+    height: 50%;
+}
+a{
+    color: inherit;
+    font-weight: bold;
+    font-size: 20px;
+}
