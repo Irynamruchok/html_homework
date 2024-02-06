@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+header{
+    height: 20vh;
+    background: #927D7D;
+}
+.left{
+    width: 20vw;
+    height: 60vh;
+    background: #817C7C;
+}
+.right{
+    width: 20vw;
+    height: 60vh;
+    background: #B7AEAE;
+}
+main{
+    width: 60vw;
+    height: 60vh;
+    background: #A74848;
+}
+footer{
+    height: 20vh;
+    background: #BDBDBD;
+}

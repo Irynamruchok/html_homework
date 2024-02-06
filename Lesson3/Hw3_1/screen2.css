@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 45px;
+}
+/*-----------------------------------Header-------------------------------------------------------*/
+header{
+    height: 20vh;
+    background: #8D8484;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*-----------------------------------Main-------------------------------------------------------*/
+main{
+    display: flex;
+    color: white;
+}
+section{
+    width: 75vw;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+
+}
+.content-1{
+    height: 20vh;
+    background: #776969;
+}
+.content-2{
+    height: 20vh;
+    background: #643030;
+}
+.content-3{
+    height: 20vh;
+    background: #441818;
+}
+aside{
+    width: 26vw;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+}
+.spam-1{
+    height: 30vh;
+    background: #937575;
+}
+.spam-2{
+    height: 30vh;
+    background: #644C4C;
+}
+.content-1, .content-2,.content-3,.spam-1,.spam-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*-----------------------------------Footer-------------------------------------------------------*/
+footer{
+    height: 20vh;
+    background: #BDBDBD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
