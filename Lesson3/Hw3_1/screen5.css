@@ -16,6 +16,9 @@ header{
     background: #B7AEAE;
 }
 main{
+    display: flex;
+}
+section{
     width: 60vw;
     height: 60vh;
     background: #A74848;
