@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    width: 40vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+/*---------------------------Login Form---------------------------------------------*/
+.loginForm{
+    width: 100%;
+    height: 75%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid silver;
+
+}
+.title{
+    width: 60%;
+    height: 30%;
+}
+.title img{
+    width: 100%;
+    height: 100%;
+}
+
+form{
+    width: 90%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+form input{
+    min-width: 400px;
+    height: 40px;
+    background-color: rgba(234, 241, 252, 0.3);
+    border: 1px solid gray;
+    border-radius: 3px;
+    text-overflow: ellipsis;
+    font-size: 20px;
+    padding: 3px;
+}
+#button{
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: #66aff9;
+    color: white;
+    cursor: pointer;
+}
+/*---------------------------Alt Login---------------------------------------------*/
+.altLogin{
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.altLogin h3{
+    color: gray;
+    margin-bottom: 0;
+    font-size: 25px;
+}
+.altLogin a{
+    text-decoration: none;
+    color: #5874af;
+}
+#forgotP{
+    font-size: 20px;
+}
+.altLogin p{
+    font-size: 25px;
+}
+.altLogin img{
+    width: 40px;
+    height: 40px;
+}
+/*---------------------------Register---------------------------------------------*/
+.register{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid silver;
+}
+.register p {
+    font-size: 25px;
+}
+.register a{
+    text-decoration: none;
+    Color: #66aff9;
+}

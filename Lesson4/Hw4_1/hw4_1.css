@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    font-family: 'KoHo', sans-serif;
+}
+
+/*----------------------------------Section-1----------------------------------------------------------------*/
+.one{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("bagimg.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.centered-content{
+    width: 70vw;
+    height: 40vh;
+    display: flex;
+    background: #FAF9F7;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.left-content{
+    width: 50%;
+    height: 100%;
+    background-image: url("left-img.png");
+    background-size: cover;
+}
+.right-content{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.right-content h2{
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 45px;
+    margin: 0;
+}
+.right-content p{
+    font-size: 25px;
+}
+.right-content button{
+    width: 77%;
+    height: 19%;
+    font-size: 30px;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+/*----------------------------------Section-2----------------------------------------------------------------*/
+.two{
+    height: 100vh;
+    background-image: url("bagimg2.png") ;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(211, 211, 211, 0.5);
+
+}
+.blockBox{
+    width: 60vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.video-container{
+    width: 100%;
+    height: 50vh;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
+.text{
+    height: 30vh;
+    font-size: 35px;
+
+}
+/*----------------------------------Section-3----------------------------------------------------------------*/
+.three{
+    height: 100vh;
+    background-image: url("bagimg2.png") ;
+    background-color: rgba(211, 211, 211, 0.5);
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.three img{
+    width: 90%;
+    height: 30%;
+}
+.three h3,p{
+    margin: 0;
+}
+.three button{
+    width: 90%;
+    height: 10%;
+    color: #6B6666;
+    font-size: 35px;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+.left-block,.middle-block,.right-block{
+    width: 30vw;
+    height: 70vh;
+    background: rgba(83, 83, 83, 0.40);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
