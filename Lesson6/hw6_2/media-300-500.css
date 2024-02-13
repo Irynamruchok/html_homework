@@ -1,0 +1,22 @@
+@media screen and (min-width: 300px) and (max-width: 500px){
+section{
+    flex-direction: column;
+}
+    header{
+        height: 20vh;
+    }
+    .box{
+        width: 100vw;
+    }
+    .b{
+        height: 30vh;
+    }
+    .container div{
+        width: 33.33vw;
+        height: 30vh;
+    }
+    .aside{
+        width: 100vw;
+        height: 20vh;
+    }
+}

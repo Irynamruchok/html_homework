@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    width: 100vw;
+    height: 25vh;
+    background-color: #4E4949;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    width: 80vw;
+    height: 75vh;
+    background-color: #9B6F6F;
+}
+.c{
+    width: 20vw;
+    height: 75vh;
+    background-color: #2C2C2C;
+}
+header,.b,.c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+}

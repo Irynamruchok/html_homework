@@ -5,20 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0d3dcd9-fd44-4ffb-a522-66408adf8efa" name="Changes" comment="Lesson 4">
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_1/bagimg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_1/bagimg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_1/hw4_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_1/hw4_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_1/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_1/image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_1/image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_1/left-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_2/Instagram_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_2/hw4_2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/Hw4_2/hw4_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Additional Task/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Additional Task/leftimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Additional Task/leftimg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Additional Task/mainimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Additional Task/rightimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Additional Task/rightimg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_1/Battle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_1/Chessboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_1/Ds3 Tool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_1/hw5_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_1/hw5_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_2/favicon_io (1)/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_2/favicon_io (1)/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_2/favicon_io (1)/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_2/favicon_io (1)/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_2/favicon_io (1)/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_2/favicon_io (1)/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_2/favicon_io (1)/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_2/hw5_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/hw5_2/hw5_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/hw6_1/hw6_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/hw6_1/hw6_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/hw6_1/media-300-500.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/hw6_2/hw6_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/hw6_2/hw6_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/hw6_2/media-300-500.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Hw3_1/screen5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Hw3_1/screen5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/Hw3_1/screen5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Hw3_1/screen5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/Additional Task/addTask.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Additional Task/addTask.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/Additional Task/addTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/Additional Task/addTask.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +61,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -61,6 +77,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson5/hw5_1" />
       <recent name="$PROJECT_DIR$/Lesson2" />
       <recent name="$PROJECT_DIR$/Lesson2/AdditionalTasks" />
       <recent name="$PROJECT_DIR$/Lesson2/HomeworkLesson2" />
@@ -80,7 +97,10 @@
       <workItem from="1707144227744" duration="7783000" />
       <workItem from="1707194129439" duration="4123000" />
       <workItem from="1707224123295" duration="7347000" />
-      <workItem from="1707238784342" duration="15014000" />
+      <workItem from="1707238784342" duration="15158000" />
+      <workItem from="1707403537529" duration="195000" />
+      <workItem from="1707488336445" duration="5315000" />
+      <workItem from="1707826382553" duration="6821000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 1">
       <option name="closed" value="true" />
@@ -114,13 +134,46 @@
       <option name="project" value="LOCAL" />
       <updated>1707238860192</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lesson 4">
+      <option name="closed" value="true" />
+      <created>1707403416283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707403416283</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lesson 3">
+      <option name="closed" value="true" />
+      <created>1707403444408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707403444408</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lesson 4">
+      <option name="closed" value="true" />
+      <created>1707403571097</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707403571097</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lesson 4">
+      <option name="closed" value="true" />
+      <created>1707403719939</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707403719939</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="lesson 1" />
     <MESSAGE value="lesson 2" />
     <MESSAGE value="additional tasks 3" />
